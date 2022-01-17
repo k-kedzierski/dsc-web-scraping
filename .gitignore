@@ -1,0 +1,5 @@
+driver/*
+!driver/.gitkeep
+__pycache__
+.DS_Store
+geckodriver.log
